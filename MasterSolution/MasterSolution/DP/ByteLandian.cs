@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MasterSolution.DP.BytelandianGoldCoin
+namespace MasterSolution.DP
 {
     /*Each Bytelandian gold coin has an integer number written on it. 
      * A coin n can be exchanged in a bank into three coins: n/2, n/3 and n/4. 
